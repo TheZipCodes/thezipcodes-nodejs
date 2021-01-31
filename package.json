@@ -1,0 +1,19 @@
+{
+  "name": "thezipcodes",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "TheZipCodes",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "keywords": [
+    "TheZipCodes",
+    "zipcodes api",
+    "states api",
+    "distance api",
+    "www.thezipcodes.com api"
+  ]
+}
